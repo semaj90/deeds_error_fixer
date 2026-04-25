@@ -1,0 +1,522 @@
+[2025-11-02T06:53:20.517Z] 🚀 Phase 1: Automated Error Fixes [2025-11-02T06:53:20.524Z]
+──────────────────────────────────────────────────────────── [2025-11-02T06:53:20.641Z] 📁 Found 4189 files to process
+[2025-11-02T06:53:20.642Z] [2025-11-02T06:53:20.652Z] ✓ Fixed 1 $state placements in src\lib\actions\draggable.ts
+[2025-11-02T06:53:20.656Z] ✓ Fixed 1 $state placements in src\lib\adapters\wasm-rabbitmq-bridge.ts
+[2025-11-02T06:53:20.669Z] ✓ Fixed 1 $state placements in src\lib\ai\browser-gemma.ts [2025-11-02T06:53:20.677Z] ✓ Fixed
+1 $state placements in src\lib\ai\cognitive-smart-router.ts [2025-11-02T06:53:20.757Z] ✓ Fixed 3 $state placements in
+src\lib\ai\ragStreamClient.ts [2025-11-02T06:53:20.769Z] ✓ Fixed 1 $state placements in src\lib\ai\som-rag-system.ts
+[2025-11-02T06:53:20.793Z] ⏳ Progress: 100/4189 files (8 fixes, 0 errors) [2025-11-02T06:53:20.851Z] ✓ Fixed 3 $state
+placements in src\lib\canvas\AdvancedEvidenceCanvas.svelte [2025-11-02T06:53:20.868Z] ✓ Fixed 2 $state placements in
+src\lib\components\agentic\AgenticController.svelte [2025-11-02T06:53:20.871Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\AgentOrchestrator.svelte [2025-11-02T06:53:20.879Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\AIAssistantChat.svelte [2025-11-02T06:53:20.884Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ai\AIAssistantPanel.svelte [2025-11-02T06:53:20.885Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\AIButton.svelte [2025-11-02T06:53:20.890Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\AIChatInterface.svelte [2025-11-02T06:53:20.895Z] ✓ Fixed 4 $state placements in
+src\lib\components\ai\AIProcessingDashboard.svelte [2025-11-02T06:53:20.897Z] ⏳ Progress: 200/4189 files (22 fixes, 0
+errors) [2025-11-02T06:53:20.904Z] ✓ Fixed 6 $state placements in src\lib\components\ai\AskAI.svelte
+[2025-11-02T06:53:20.911Z] ✓ Fixed 1 $state placements in src\lib\components\ai\CaseScoringDashboard.svelte
+[2025-11-02T06:53:20.922Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ai\cognitive\CognitiveDocumentationHub.svelte [2025-11-02T06:53:20.924Z] ✓ Fixed 1 $state placements
+in src\lib\components\ai\cognitive\NeuralPerformanceDashboard.svelte [2025-11-02T06:53:20.926Z] ✓ Fixed 2 unterminated
+strings in src\lib\components\ai\cognitive\NeuralPerformanceDashboard.svelte [2025-11-02T06:53:20.930Z] ✓ Fixed 3 $state
+placements in src\lib\components\ai\ContextualChatDemo.svelte [2025-11-02T06:53:20.939Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\DocumentUploadSimulator.svelte [2025-11-02T06:53:20.945Z] ✓ Fixed 4 $state placements in
+src\lib\components\ai\EnhancedAIAssistant.simple.svelte [2025-11-02T06:53:20.947Z] ✓ Fixed 1 component casing issues in
+src\lib\components\ai\EnhancedAIAssistant.simple.svelte [2025-11-02T06:53:20.949Z] ✓ Fixed 3 $state placements in
+src\lib\components\ai\EnhancedAIAssistant.svelte [2025-11-02T06:53:20.952Z] ✓ Fixed 5 $state placements in
+src\lib\components\ai\EnhancedAIChat.svelte [2025-11-02T06:53:20.954Z] ✓ Fixed 1 component casing issues in
+src\lib\components\ai\EnhancedAIChat.svelte [2025-11-02T06:53:20.956Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\EnhancedAIChatTest.svelte [2025-11-02T06:53:20.957Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ai\EnhancedAIChatTest.svelte [2025-11-02T06:53:20.960Z] ✓ Fixed 1 component casing issues in
+src\lib\components\ai\EnhancedContextualChat.svelte [2025-11-02T06:53:20.962Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\EnhancedDocumentUploader.svelte [2025-11-02T06:53:20.968Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\EnhancedInlineEditor.svelte [2025-11-02T06:53:20.971Z] ✓ Fixed 3 $state placements in
+src\lib\components\ai\EnhancedLegalAIChatWithSynthesis.svelte [2025-11-02T06:53:20.975Z] ✓ Fixed 2 unterminated strings
+in src\lib\components\ai\EnhancedLegalAIChatWithSynthesis.svelte [2025-11-02T06:53:20.980Z] ✓ Fixed 4 unterminated
+strings in src\lib\components\ai\EnhancedRAGDemo.svelte [2025-11-02T06:53:20.989Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ai\EvidenceTimelineCard.svelte [2025-11-02T06:53:20.991Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\FileUpload.svelte [2025-11-02T06:53:20.991Z] ✓ Fixed 4 import quotes in
+src\lib\components\ai\FileUpload.svelte [2025-11-02T06:53:20.994Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\FindModal.svelte [2025-11-02T06:53:20.999Z] ✓ Fixed 9 unterminated strings in
+src\lib\components\ai\GamingAIButton.svelte [2025-11-02T06:53:21.001Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\GamingAIInterface.svelte [2025-11-02T06:53:21.003Z] ✓ Fixed 7 unterminated strings in
+src\lib\components\ai\GamingAIInterface.svelte [2025-11-02T06:53:21.005Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\Gemma270MWebAssembly.svelte [2025-11-02T06:53:21.011Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\GPUStreamingChat.svelte [2025-11-02T06:53:21.016Z] ✓ Fixed 4 unterminated strings in
+src\lib\components\ai\IngestAIAssistant.svelte [2025-11-02T06:53:21.018Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\IntegratedAIChat.svelte [2025-11-02T06:53:21.023Z] ✓ Fixed 2 unterminated strings in
+src\lib\components\ai\IntelligentModelOrchestrator.svelte [2025-11-02T06:53:21.027Z] ✓ Fixed 3 $state placements in
+src\lib\components\ai\legal\ComprehensiveLegalAI.svelte [2025-11-02T06:53:21.040Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\LLMSelector.svelte [2025-11-02T06:53:21.042Z] ✓ Fixed 8 unterminated strings in
+src\lib\components\ai\LLMSelector.svelte [2025-11-02T06:53:21.048Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\ModularAIExperience.svelte [2025-11-02T06:53:21.050Z] ✓ Fixed 3 unterminated strings in
+src\lib\components\ai\ModularAIExperience.svelte [2025-11-02T06:53:21.055Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\NESTextureStreamer.svelte [2025-11-02T06:53:21.058Z] ✓ Fixed 3 $state placements in
+src\lib\components\ai\NeuralTopology3DDemo.svelte [2025-11-02T06:53:21.071Z] ✓ Fixed 3 $state placements in
+src\lib\components\ai\ProactiveAIAssistant.svelte [2025-11-02T06:53:21.074Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\QLorATrainingPanel.svelte [2025-11-02T06:53:21.080Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\rag\DocumentUpload.svelte [2025-11-02T06:53:21.085Z] ✓ Fixed 3 $state placements in
+src\lib\components\ai\RAGAssistantChat.svelte [2025-11-02T06:53:21.088Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\RealtimeCommunicationDemo.svelte [2025-11-02T06:53:21.091Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ai\RealtimeCommunicationDemo.svelte [2025-11-02T06:53:21.100Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\SIMDTextTilingDemo.svelte [2025-11-02T06:53:21.105Z] ✓ Fixed 2 $state placements in
+src\lib\components\ai\SimpleFileUpload.svelte [2025-11-02T06:53:21.108Z] ✓ Fixed 2 unterminated strings in
+src\lib\components\ai\SimpleFileUpload.svelte [2025-11-02T06:53:21.110Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ai\SimpleWorkingChat.svelte [2025-11-02T06:53:21.118Z] ✓ Fixed 6 $state placements in
+src\lib\components\ai\TypewriterResponse.svelte [2025-11-02T06:53:21.132Z] ✓ Fixed 1 $state placements in
+src\lib\components\ai\webgpu-viewer.svelte [2025-11-02T06:53:21.138Z] ✓ Fixed 8 $state placements in
+src\lib\components\ai\YorhaAIAssistant.svelte [2025-11-02T06:53:21.145Z] ⏳ Progress: 300/4189 files (158 fixes, 0
+errors) [2025-11-02T06:53:21.146Z] ✓ Fixed 3 $state placements in src\lib\components\AIAssistantButton.svelte
+[2025-11-02T06:53:21.150Z] ✓ Fixed 1 $state placements in src\lib\components\alerts\AlertsPanel.svelte
+[2025-11-02T06:53:21.159Z] ✓ Fixed 2 $state placements in src\lib\components\auth\EnhancedAuthForm.svelte
+[2025-11-02T06:53:21.163Z] ✓ Fixed 2 $state placements in src\lib\components\auth\LoginModal.svelte
+[2025-11-02T06:53:21.164Z] ✓ Fixed 1 $state placements in src\lib\components\auth\ModernAuthForm.svelte
+[2025-11-02T06:53:21.165Z] ✓ Fixed 1 $state placements in src\lib\components\auth\NesAuthButton.svelte
+[2025-11-02T06:53:21.167Z] ✓ Fixed 1 $state placements in src\lib\components\auth\NesAuthModal.svelte
+[2025-11-02T06:53:21.169Z] ✓ Fixed 1 $state placements in src\lib\components\auth\RegisterForm.simple.svelte
+[2025-11-02T06:53:21.173Z] ✓ Fixed 1 $state placements in src\lib\components\auth\RegisterForm.svelte
+[2025-11-02T06:53:21.175Z] ✓ Fixed 2 $state placements in src\lib\components\auth\RegisterModal.svelte
+[2025-11-02T06:53:21.177Z] ✓ Fixed 1 $state placements in src\lib\components\auth\UserProfileDropdown.svelte
+[2025-11-02T06:53:21.178Z] ✓ Fixed 2 $state placements in src\lib\components\auth\XStateAuthDemo.svelte
+[2025-11-02T06:53:21.181Z] ✓ Fixed 1 $state placements in src\lib\components\bits-ui\ButtonExampleUsage.svelte
+[2025-11-02T06:53:21.187Z] ✓ Fixed 1 unterminated strings in src\lib\components\cache\CacheDemo.svelte
+[2025-11-02T06:53:21.188Z] ✓ Fixed 1 $state placements in src\lib\components\canvas\AdvancedEditor.svelte
+[2025-11-02T06:53:21.191Z] ✓ Fixed 1 $state placements in src\lib\components\canvas\CollaborativeEvidenceCanvas.svelte
+[2025-11-02T06:53:21.200Z] ✓ Fixed 12 $state placements in src\lib\components\canvas\EvidenceCanvasEditor.svelte
+[2025-11-02T06:53:21.204Z] ✓ Fixed 1 $state placements in src\lib\components\canvas\EvidenceNode.svelte
+[2025-11-02T06:53:21.206Z] ✓ Fixed 2 $state placements in src\lib\components\canvas\FabricCanvas.svelte
+[2025-11-02T06:53:21.209Z] ✓ Fixed 2 $state placements in src\lib\components\canvas\FabricEvidenceCanvas.svelte
+[2025-11-02T06:53:21.212Z] ✓ Fixed 2 $state placements in src\lib\components\canvas\POINode.svelte
+[2025-11-02T06:53:21.213Z] ✓ Fixed 1 import quotes in src\lib\components\canvas\POINode.svelte
+[2025-11-02T06:53:21.218Z] ✓ Fixed 1 $state placements in
+src\lib\components\canvas\RecursiveEvidenceVisualization.svelte [2025-11-02T06:53:21.220Z] ✓ Fixed 1 $state placements
+in src\lib\components\canvas\ReportNode.svelte [2025-11-02T06:53:21.222Z] ✓ Fixed 1 $state placements in
+src\lib\components\canvas\UnifiedCanvasIntegration.svelte [2025-11-02T06:53:21.224Z] ✓ Fixed 2 $state placements in
+src\lib\components\canvas\WebGPUCanvas.svelte [2025-11-02T06:53:21.227Z] ✓ Fixed 1 import quotes in
+src\lib\components\cases\CaseListItem.svelte [2025-11-02T06:53:21.229Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\cases\EvidenceCard.svelte [2025-11-02T06:53:21.231Z] ✓ Fixed 1 $state placements in
+src\lib\components\CaseSelector.svelte [2025-11-02T06:53:21.234Z] ✓ Fixed 2 $state placements in
+src\lib\components\chat\LegalAIChat.svelte [2025-11-02T06:53:21.237Z] ✓ Fixed 1 $state placements in
+src\lib\components\chat\nes-typewriter-stream.svelte [2025-11-02T06:53:21.241Z] ✓ Fixed 2 $state placements in
+src\lib\components\Chat.svelte [2025-11-02T06:53:21.249Z] ✓ Fixed 3 $state placements in
+src\lib\components\citations\CitationsList.svelte [2025-11-02T06:53:21.252Z] ✓ Fixed 1 $state placements in
+src\lib\components\citations\CitationsManager.svelte [2025-11-02T06:53:21.254Z] ✓ Fixed 2 $state placements in
+src\lib\components\citations\CitationsSaveButton.svelte [2025-11-02T06:53:21.257Z] ✓ Fixed 2 $state placements in
+src\lib\components\ComprehensiveUploadAnalytics.svelte [2025-11-02T06:53:21.263Z] ✓ Fixed 2 $state placements in
+src\lib\components\dashboard\EvidenceAnalysisDashboard.svelte [2025-11-02T06:53:21.269Z] ✓ Fixed 4 unterminated strings
+in src\lib\components\dashboard\LegalAIDashboard.svelte [2025-11-02T06:53:21.272Z] ✓ Fixed 1 $state placements in
+src\lib\components\detective\ContextMenu.svelte [2025-11-02T06:53:21.278Z] ✓ Fixed 2 unterminated strings in
+src\lib\components\detective\EvidenceCard.svelte [2025-11-02T06:53:21.280Z] ✓ Fixed 1 $state placements in
+src\lib\components\detective\UploadZone.svelte [2025-11-02T06:53:21.281Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\detective\UploadZone.svelte [2025-11-02T06:53:21.284Z] ✓ Fixed 1 $state placements in
+src\lib\components\DocumentDetailModal.svelte [2025-11-02T06:53:21.289Z] ✓ Fixed 2 $state placements in
+src\lib\components\DocumentUploadForm.svelte [2025-11-02T06:53:21.291Z] ✓ Fixed 1 $state placements in
+src\lib\components\EditableCanvasSystem.svelte [2025-11-02T06:53:21.293Z] ✓ Fixed 3 $state placements in
+src\lib\components\editor\LegalDocumentEditor.svelte [2025-11-02T06:53:21.294Z] ✓ Fixed 7 import quotes in
+src\lib\components\editor\LegalDocumentEditor.svelte [2025-11-02T06:53:21.297Z] ✓ Fixed 2 $state placements in
+src\lib\components\editor\ReportEditor.svelte [2025-11-02T06:53:21.302Z] ✓ Fixed 4 $state placements in
+src\lib\components\editor\RichTextEditor.svelte [2025-11-02T06:53:21.305Z] ✓ Fixed 3 $state placements in
+src\lib\components\editor\TiptapWithAIAssistant.svelte [2025-11-02T06:53:21.309Z] ✓ Fixed 1 $state placements in
+src\lib\components\editors\NierRichTextEditor.svelte [2025-11-02T06:53:21.318Z] ✓ Fixed 2 unterminated strings in
+src\lib\components\EnhancedAISearch.svelte [2025-11-02T06:53:21.321Z] ✓ Fixed 1 $state placements in
+src\lib\components\EnhancedCanvasEditor.svelte [2025-11-02T06:53:21.332Z] ⏳ Progress: 400/4189 files (259 fixes, 0
+errors) [2025-11-02T06:53:21.334Z] ✓ Fixed 2 $state placements in src\lib\components\EnhancedLegalCaseManager.svelte
+[2025-11-02T06:53:21.337Z] ✓ Fixed 6 unterminated strings in src\lib\components\EnhancedLegalCaseManager.svelte
+[2025-11-02T06:53:21.340Z] ✓ Fixed 4 $state placements in src\lib\components\EnhancedLegalUploadAnalytics.svelte
+[2025-11-02T06:53:21.346Z] ✓ Fixed 1 $state placements in src\lib\components\error\ErrorBoundary.svelte
+[2025-11-02T06:53:21.348Z] ✓ Fixed 2 $state placements in src\lib\components\evidence\+EvidenceUpload.svelte
+[2025-11-02T06:53:21.353Z] ✓ Fixed 1 $state placements in src\lib\components\evidence\DraggableEvidenceNode.svelte
+[2025-11-02T06:53:21.357Z] ✓ Fixed 2 $state placements in src\lib\components\evidence\Enhanced3DEvidenceBoard.svelte
+[2025-11-02T06:53:21.361Z] ✓ Fixed 14 $state placements in src\lib\components\evidence\EnhancedEvidenceBoard.svelte
+[2025-11-02T06:53:21.365Z] ✓ Fixed 1 unterminated strings in src\lib\components\evidence\EnhancedEvidenceBoard.svelte
+[2025-11-02T06:53:21.368Z] ✓ Fixed 1 $state placements in src\lib\components\evidence\EvidenceBoard.svelte
+[2025-11-02T06:53:21.375Z] ✓ Fixed 2 $state placements in src\lib\components\evidence\EvidenceManager.svelte
+[2025-11-02T06:53:21.379Z] ✓ Fixed 4 $state placements in src\lib\components\evidence\EvidenceProcessingWorkflow.svelte
+[2025-11-02T06:53:21.382Z] ✓ Fixed 4 $state placements in src\lib\components\evidence\EvidenceUpload.svelte
+[2025-11-02T06:53:21.383Z] ✓ Fixed 1 unterminated strings in src\lib\components\evidence\EvidenceUpload.svelte
+[2025-11-02T06:53:21.385Z] ✓ Fixed 1 $state placements in src\lib\components\evidence\SimpleEvidenceBoard.svelte
+[2025-11-02T06:53:21.397Z] ✓ Fixed 3 $state placements in src\lib\components\EvidenceUpload.svelte
+[2025-11-02T06:53:21.400Z] ✓ Fixed 2 $state placements in src\lib\components\EvidenceUploader.svelte
+[2025-11-02T06:53:21.402Z] ✓ Fixed 1 $state placements in src\lib\components\feedback\FeedbackAnalyticsDashboard.svelte
+[2025-11-02T06:53:21.407Z] ✓ Fixed 4 $state placements in src\lib\components\feedback\FeedbackWidget.svelte
+[2025-11-02T06:53:21.410Z] ✓ Fixed 2 $state placements in src\lib\components\FileUploadWithFallback.svelte
+[2025-11-02T06:53:21.415Z] ✓ Fixed 1 $state placements in src\lib\components\forms\EnhancedCaseFormWithZod.svelte
+[2025-11-02T06:53:21.420Z] ✓ Fixed 2 $state placements in src\lib\components\forms\EnhancedDocumentUploadForm.svelte
+[2025-11-02T06:53:21.423Z] ✓ Fixed 2 $state placements in src\lib\components\forms\EnhancedFileUpload.svelte
+[2025-11-02T06:53:21.429Z] ✓ Fixed 2 $state placements in src\lib\components\forms\ProgressiveForm.svelte
+[2025-11-02T06:53:21.435Z] ✓ Fixed 1 $state placements in src\lib\components\GlobalSidebar.svelte
+[2025-11-02T06:53:21.439Z] ✓ Fixed 2 $state placements in src\lib\components\glyph\GlyphConfigPanel.svelte
+[2025-11-02T06:53:21.445Z] ✓ Fixed 2 $state placements in src\lib\components\glyph\SIMDGlyphRenderer.svelte
+[2025-11-02T06:53:21.448Z] ✓ Fixed 11 $state placements in src\lib\components\GPUAcceleratedChat.svelte
+[2025-11-02T06:53:21.454Z] ✓ Fixed 2 $state placements in src\lib\components\Header.svelte [2025-11-02T06:53:21.456Z] ✓
+Fixed 2 $state placements in src\lib\components\headless\DocumentUploader.svelte [2025-11-02T06:53:21.457Z] ✓ Fixed 1
+$state placements in src\lib\components\headless\evidence-canvas.svelte.ts [2025-11-02T06:53:21.459Z] ✓ Fixed 1 $state
+placements in src\lib\components\headless\texture-streaming.svelte.ts [2025-11-02T06:53:21.461Z] ✓ Fixed 1 $state
+placements in src\lib\components\HeadlessDemo.svelte [2025-11-02T06:53:21.462Z] ✓ Fixed 1 $state placements in
+src\lib\components\HeadlessTypingListener.svelte [2025-11-02T06:53:21.471Z] ✓ Fixed 1 $state placements in
+src\lib\components\IntelligentEvidenceList.svelte [2025-11-02T06:53:21.473Z] ✓ Fixed 3 $state placements in
+src\lib\components\keyboard\KeyboardShortcuts.svelte [2025-11-02T06:53:21.475Z] ✓ Fixed 2 $state placements in
+src\lib\components\KeyboardShortcuts.svelte [2025-11-02T06:53:21.482Z] ✓ Fixed 1 $state placements in
+src\lib\components\layout\EvidenceBoardLayout.svelte [2025-11-02T06:53:21.486Z] ✓ Fixed 1 $state placements in
+src\lib\components\layout\NavBar.svelte [2025-11-02T06:53:21.491Z] ✓ Fixed 1 $state placements in
+src\lib\components\layout\Sidebar.svelte [2025-11-02T06:53:21.494Z] ✓ Fixed 4 $state placements in
+src\lib\components\layout\UserMenu.svelte [2025-11-02T06:53:21.507Z] ✓ Fixed 2 $state placements in
+src\lib\components\legal\CaseAutomation.svelte [2025-11-02T06:53:21.517Z] ✓ Fixed 3 unterminated strings in
+src\lib\components\legal\CaseSynthesisWorkflow.svelte [2025-11-02T06:53:21.522Z] ✓ Fixed 1 $state placements in
+src\lib\components\legal\CitationManager.svelte [2025-11-02T06:53:21.527Z] ✓ Fixed 2 $state placements in
+src\lib\components\legal\CollaborationPanel.svelte [2025-11-02T06:53:21.534Z] ✓ Fixed 1 $state placements in
+src\lib\components\legal\DocumentDetails.svelte [2025-11-02T06:53:21.537Z] ✓ Fixed 2 unterminated strings in
+src\lib\components\legal\DocumentDetails.svelte [2025-11-02T06:53:21.540Z] ⏳ Progress: 500/4189 files (372 fixes, 0
+errors) [2025-11-02T06:53:21.541Z] ✓ Fixed 1 $state placements in src\lib\components\legal\EvidenceCustodyFlow.svelte
+[2025-11-02T06:53:21.552Z] ✓ Fixed 3 $state placements in src\lib\components\legal\EvidenceUpload.svelte
+[2025-11-02T06:53:21.560Z] ✓ Fixed 1 unterminated strings in src\lib\components\legal\LegalAIWorkflow.svelte
+[2025-11-02T06:53:21.562Z] ✓ Fixed 2 $state placements in src\lib\components\legal\LegalAnalysisDialog.svelte
+[2025-11-02T06:53:21.565Z] ✓ Fixed 2 unterminated strings in src\lib\components\legal\LegalDocumentProcessor.svelte
+[2025-11-02T06:53:21.573Z] ✓ Fixed 2 unterminated strings in src\lib\components\legal\SimpleCaseManager.svelte
+[2025-11-02T06:53:21.587Z] ✓ Fixed 1 unterminated strings in src\lib\components\metrics\MetricsDashboardWidget.svelte
+[2025-11-02T06:53:21.592Z] ✓ Fixed 1 unterminated strings in src\lib\components\modals\EvidenceAnalysisModal.svelte
+[2025-11-02T06:53:21.594Z] ✓ Fixed 3 $state placements in src\lib\components\modals\EvidenceCRUDModal.svelte
+[2025-11-02T06:53:21.597Z] ✓ Fixed 2 $state placements in src\lib\components\modals\EvidenceModal.svelte
+[2025-11-02T06:53:21.598Z] ✓ Fixed 2 $state placements in src\lib\components\modals\EvidenceUploadModal.svelte
+[2025-11-02T06:53:21.601Z] ✓ Fixed 4 $state placements in src\lib\components\modals\EvidenceValidationModal.svelte
+[2025-11-02T06:53:21.608Z] ✓ Fixed 1 $state placements in src\lib\components\navigation\DemoNavigation.svelte
+[2025-11-02T06:53:21.612Z] ✓ Fixed 1 $state placements in src\lib\components\Neo4jRecommendation3DViewer.svelte
+[2025-11-02T06:53:21.615Z] ✓ Fixed 2 $state placements in src\lib\components\NierHeader.svelte
+[2025-11-02T06:53:21.618Z] ✓ Fixed 1 $state placements in src\lib\components\NierThemeShowcase.svelte
+[2025-11-02T06:53:21.623Z] ✓ Fixed 1 $state placements in src\lib\components\notes\LegalNotesManager.svelte
+[2025-11-02T06:53:21.628Z] ✓ Fixed 2 unterminated strings in
+src\lib\components\notifications\DocumentUpdateNotifications.svelte [2025-11-02T06:53:21.632Z] ✓ Fixed 2 $state
+placements in src\lib\components\observability\ObservabilityPanel.svelte [2025-11-02T06:53:21.635Z] ✓ Fixed 1 import
+quotes in src\lib\components\OllamaChatInterface.svelte [2025-11-02T06:53:21.636Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\OllamaChatInterface.svelte [2025-11-02T06:53:21.638Z] ✓ Fixed 1 $state placements in
+src\lib\components\onboarding\OnboardingOverlay.svelte [2025-11-02T06:53:21.642Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\PerformanceDashboard.svelte [2025-11-02T06:53:21.643Z] ✓ Fixed 1 $state placements in
+src\lib\components\poi\AddPoiModal.svelte [2025-11-02T06:53:21.649Z] ✓ Fixed 2 $state placements in
+src\lib\components\prosecutor\EvidenceUploadComponent.svelte [2025-11-02T06:53:21.655Z] ✓ Fixed 1 $state placements in
+src\lib\components\rag\DocumentModal.svelte [2025-11-02T06:53:21.656Z] ✓ Fixed 1 $state placements in
+src\lib\components\rag\GPURAGSearch.svelte [2025-11-02T06:53:21.659Z] ✓ Fixed 1 $state placements in
+src\lib\components\rag\RagDocumentUpload.svelte [2025-11-02T06:53:21.663Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\RAGSearchComponent.svelte [2025-11-02T06:53:21.666Z] ✓ Fixed 1 $state placements in
+src\lib\components\recommendations\AIRecommendationAssistant.svelte [2025-11-02T06:53:21.670Z] ✓ Fixed 1 unterminated
+strings in src\lib\components\recommendations\DidYouMeanSuggestions.svelte [2025-11-02T06:53:21.672Z] ✓ Fixed 1 $state
+placements in src\lib\components\recommendations\FOAFModal.svelte [2025-11-02T06:53:21.674Z] ✓ Fixed 2 $state placements
+in src\lib\components\recommendations\LastSearchedModal.svelte [2025-11-02T06:53:21.677Z] ✓ Fixed 2 $state placements in
+src\lib\components\recommendations\LastWorkedModal.svelte [2025-11-02T06:53:21.681Z] ✓ Fixed 2 $state placements in
+src\lib\components\recommendations\RecommendationDashboard.svelte [2025-11-02T06:53:21.685Z] ✓ Fixed 2 $state placements
+in src\lib\components\redis\AdvancedRedisMonitoringDashboard.svelte [2025-11-02T06:53:21.692Z] ✓ Fixed 6 $state
+placements in src\lib\components\search\DidYouMeanSuggestions.svelte [2025-11-02T06:53:21.697Z] ✓ Fixed 6 $state
+placements in src\lib\components\search\InstantLegalSearch.svelte [2025-11-02T06:53:21.701Z] ✓ Fixed 1 $state placements
+in src\lib\components\search\LegalSearchCombobox.svelte [2025-11-02T06:53:21.706Z] ✓ Fixed 1 $state placements in
+src\lib\components\search\RealTimeLegalSearch.svelte [2025-11-02T06:53:21.709Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\search\RealTimeLegalSearch.svelte [2025-11-02T06:53:21.711Z] ✓ Fixed 4 $state placements in
+src\lib\components\search\UnifiedSearchBar.svelte [2025-11-02T06:53:21.715Z] ✓ Fixed 4 $state placements in
+src\lib\components\search\UniversalSearchBar.svelte [2025-11-02T06:53:21.723Z] ✓ Fixed 1 $state placements in
+src\lib\components\SearchInput.svelte [2025-11-02T06:53:21.728Z] ✓ Fixed 1 $state placements in
+src\lib\components\Sidebar.svelte [2025-11-02T06:53:21.729Z] ⏳ Progress: 600/4189 files (453 fixes, 0 errors)
+[2025-11-02T06:53:21.732Z] ✓ Fixed 4 unterminated strings in src\lib\components\subcomponents\ProgressIndicator.svelte
+[2025-11-02T06:53:21.736Z] ✓ Fixed 3 $state placements in src\lib\components\TagList.svelte [2025-11-02T06:53:21.781Z] ✓
+Fixed 11 unterminated strings in src\lib\components\ui\AccessibilitySettings.svelte [2025-11-02T06:53:21.782Z] ✓ Fixed 1
+$state placements in src\lib\components\ui\AdaptiveRenderingEngine.svelte [2025-11-02T06:53:21.786Z] ✓ Fixed 1 $state
+placements in src\lib\components\ui\AIAccessibilityWrapper.svelte [2025-11-02T06:53:21.789Z] ✓ Fixed 8 $state placements
+in src\lib\components\ui\AIDropdown.svelte [2025-11-02T06:53:21.794Z] ✓ Fixed 6 unterminated strings in
+src\lib\components\ui\AILoadingIndicator.svelte [2025-11-02T06:53:21.797Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ui\alert\Alert.svelte [2025-11-02T06:53:21.808Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\bits\Board.svelte [2025-11-02T06:53:21.819Z] ✓ Fixed 3 $state placements in
+src\lib\components\ui\bits\DraggableModal.svelte [2025-11-02T06:53:21.824Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\bits\EmbeddingGemmaChat.svelte [2025-11-02T06:53:21.830Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\bits\EnhancedBitsDemo.svelte [2025-11-02T06:53:21.834Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ui\bits\EnhancedModal.svelte [2025-11-02T06:53:21.837Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\bits\EvidenceAIAnalysis.svelte [2025-11-02T06:53:21.840Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\bits\EvidenceBoard.svelte [2025-11-02T06:53:21.846Z] ✓ Fixed 3 $state placements in
+src\lib\components\ui\bits\GemmaEmbeddingDemo.svelte [2025-11-02T06:53:21.851Z] ✓ Fixed 1 import quotes in
+src\lib\components\ui\bits\HybridLegalAnalysis3D.svelte [2025-11-02T06:53:21.859Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\bits\KeyboardHelp.svelte [2025-11-02T06:53:21.870Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\bits\NESButton.svelte [2025-11-02T06:53:21.872Z] ⏳ Progress: 700/4189 files (507 fixes, 0 errors)
+[2025-11-02T06:53:21.873Z] ✓ Fixed 2 $state placements in src\lib\components\ui\bits\NESGamingShowcase.svelte
+[2025-11-02T06:53:21.875Z] ✓ Fixed 2 $state placements in src\lib\components\ui\bits\NESModal.svelte
+[2025-11-02T06:53:21.879Z] ✓ Fixed 7 $state placements in src\lib\components\ui\bits\SearchInput.svelte
+[2025-11-02T06:53:21.882Z] ✓ Fixed 1 $state placements in src\lib\components\ui\bits\Sidebar.svelte
+[2025-11-02T06:53:21.888Z] ✓ Fixed 4 $state placements in src\lib\components\ui\bits\SSRWebGPULoader.svelte
+[2025-11-02T06:53:21.902Z] ✓ Fixed 1 $state placements in src\lib\components\ui\bits\YoRHaHarvardButton.svelte
+[2025-11-02T06:53:21.906Z] ✓ Fixed 5 $state placements in src\lib\components\ui\bits\YoRHaSearchBar.svelte
+[2025-11-02T06:53:21.913Z] ✓ Fixed 1 $state placements in src\lib\components\ui\BitsUIDemo.svelte
+[2025-11-02T06:53:21.929Z] ✓ Fixed 1 $state placements in src\lib\components\ui\command\Command.svelte
+[2025-11-02T06:53:21.932Z] ✓ Fixed 1 $state placements in src\lib\components\ui\CommandPalette.svelte
+[2025-11-02T06:53:21.949Z] ✓ Fixed 5 $state placements in src\lib\components\ui\core\YorHADetectiveInterface.svelte
+[2025-11-02T06:53:21.958Z] ✓ Fixed 1 $state placements in src\lib\components\ui\dialog\Dialog.svelte
+[2025-11-02T06:53:21.961Z] ✓ Fixed 1 $state placements in src\lib\components\ui\dialog\DialogBits.svelte
+[2025-11-02T06:53:21.963Z] ⏳ Progress: 800/4189 files (539 fixes, 0 errors) [2025-11-02T06:53:21.965Z] ✓ Fixed 1
+unterminated strings in src\lib\components\ui\dialog\DialogStandard.svelte [2025-11-02T06:53:21.968Z] ✓ Fixed 1 $state
+placements in src\lib\components\ui\Dialog.svelte [2025-11-02T06:53:21.969Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\DialogWrapper.svelte [2025-11-02T06:53:21.970Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\DiamondModal.svelte [2025-11-02T06:53:21.973Z] ✓ Fixed 4 $state placements in
+src\lib\components\ui\DragDropZone.svelte [2025-11-02T06:53:21.976Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\drawer\Drawer.svelte [2025-11-02T06:53:21.981Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\Dropdown.svelte [2025-11-02T06:53:21.991Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\error-boundary\ErrorBoundary.svelte [2025-11-02T06:53:21.993Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\ErrorBoundary.svelte [2025-11-02T06:53:21.996Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ui\EvidenceCard.svelte [2025-11-02T06:53:21.997Z] ✓ Fixed 2 unterminated strings in
+src\lib\components\ui\FinalFantasyButton.svelte [2025-11-02T06:53:21.999Z] ✓ Fixed 6 unterminated strings in
+src\lib\components\ui\FinalFantasyContainer.svelte [2025-11-02T06:53:22.000Z] ✓ Fixed 5 unterminated strings in
+src\lib\components\ui\FinalFantasyModal.svelte [2025-11-02T06:53:22.003Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ui\forms\FormStandard.svelte [2025-11-02T06:53:22.004Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\gaming\16bit\SNES16BitButton.svelte [2025-11-02T06:53:22.005Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\ui\gaming\16bit\SNES16BitButton.svelte [2025-11-02T06:53:22.007Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\gaming\8bit\NES8BitButton.svelte [2025-11-02T06:53:22.023Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\gaming\modals\RetroRecommendationModal.svelte [2025-11-02T06:53:22.027Z] ✓ Fixed 3 $state
+placements in src\lib\components\ui\gaming\n64\Card.svelte [2025-11-02T06:53:22.029Z] ✓ Fixed 3 $state placements in
+src\lib\components\ui\gaming\n64\Dialog.svelte [2025-11-02T06:53:22.034Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\gaming\n64\Input.svelte [2025-11-02T06:53:22.037Z] ✓ Fixed 3 $state placements in
+src\lib\components\ui\gaming\n64\N643DButton.svelte [2025-11-02T06:53:22.044Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\gaming\n64\N64ProgressBar.svelte [2025-11-02T06:53:22.046Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\gaming\n64\N64Slider.svelte [2025-11-02T06:53:22.055Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\gaming\n64\ProgressBar.svelte [2025-11-02T06:53:22.058Z] ✓ Fixed 3 $state placements in
+src\lib\components\ui\gaming\n64\Select.svelte [2025-11-02T06:53:22.060Z] ⏳ Progress: 900/4189 files (591 fixes, 0
+errors) [2025-11-02T06:53:22.062Z] ✓ Fixed 4 $state placements in src\lib\components\ui\gaming\n64\Switch.svelte
+[2025-11-02T06:53:22.065Z] ✓ Fixed 1 $state placements in src\lib\components\ui\gaming\N64Button.svelte
+[2025-11-02T06:53:22.068Z] ✓ Fixed 3 $state placements in src\lib\components\ui\gaming\N64DetectiveUI.svelte
+[2025-11-02T06:53:22.076Z] ✓ Fixed 1 $state placements in src\lib\components\ui\gaming\PixelCard.svelte
+[2025-11-02T06:53:22.080Z] ✓ Fixed 2 $state placements in src\lib\components\ui\gaming\RecommendationContainer.svelte
+[2025-11-02T06:53:22.082Z] ✓ Fixed 1 component casing issues in
+src\lib\components\ui\gaming\RecommendationContainer.svelte [2025-11-02T06:53:22.087Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\GPUInferenceDemo.svelte [2025-11-02T06:53:22.093Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\Input.svelte [2025-11-02T06:53:22.099Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\Modal.svelte [2025-11-02T06:53:22.103Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\modern\ModernDialog.svelte [2025-11-02T06:53:22.107Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\modular\FileUpload.svelte [2025-11-02T06:53:22.113Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\modular-command\ModularCommand.svelte [2025-11-02T06:53:22.123Z] ✓ Fixed 2 $state placements in
+src\lib\components\ui\n64\N64Card.svelte [2025-11-02T06:53:22.126Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\n64\N64Dialog.svelte [2025-11-02T06:53:22.128Z] ✓ Fixed 3 $state placements in
+src\lib\components\ui\n64\N64Input.svelte [2025-11-02T06:53:22.137Z] ✓ Fixed 3 $state placements in
+src\lib\components\ui\nes\N64Button.svelte [2025-11-02T06:53:22.140Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\nes\NESContainer.svelte [2025-11-02T06:53:22.142Z] ✓ Fixed 3 $state placements in
+src\lib\components\ui\nes\PixelCard.svelte [2025-11-02T06:53:22.145Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\NoteViewerModal.svelte [2025-11-02T06:53:22.149Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\PerformanceMonitor.svelte [2025-11-02T06:53:22.154Z] ✓ Fixed 1 $state placements in
+src\lib\components\ui\RetroModal.svelte [2025-11-02T06:53:22.158Z] ✓ Fixed 5 $state placements in
+src\lib\components\ui\SearchBox.svelte [2025-11-02T06:53:22.167Z] ⏳ Progress: 1000/4189 files (631 fixes, 0 errors)
+[2025-11-02T06:53:22.172Z] ✓ Fixed 3 $state placements in src\lib\components\ui\SimpleDragDrop.svelte
+[2025-11-02T06:53:22.176Z] ✓ Fixed 3 $state placements in src\lib\components\ui\SmartTextarea.svelte
+[2025-11-02T06:53:22.185Z] ✓ Fixed 1 unterminated strings in src\lib\components\ui\tabs\TabsTrigger.svelte
+[2025-11-02T06:53:22.196Z] ✓ Fixed 1 $state placements in src\lib\components\ui\tooltip\TooltipBits.svelte
+[2025-11-02T06:53:22.198Z] ✓ Fixed 1 $state placements in src\lib\components\ui\Tooltip.svelte
+[2025-11-02T06:53:22.203Z] ✓ Fixed 2 $state placements in src\lib\components\ui\wrappers\bits\DialogRoot.svelte
+[2025-11-02T06:53:22.212Z] ✓ Fixed 1 $state placements in src\lib\components\unified\UnifiedDialog.svelte
+[2025-11-02T06:53:22.222Z] ✓ Fixed 2 $state placements in src\lib\components\upload\+FileUploadSection.svelte
+[2025-11-02T06:53:22.224Z] ✓ Fixed 4 $state placements in src\lib\components\upload\AdvancedFileUpload.svelte
+[2025-11-02T06:53:22.228Z] ✓ Fixed 2 $state placements in src\lib\components\upload\EnhancedLegalUpload.svelte
+[2025-11-02T06:53:22.233Z] ✓ Fixed 2 $state placements in src\lib\components\upload\EnhancedMinIODragDrop.svelte
+[2025-11-02T06:53:22.238Z] ✓ Fixed 2 unterminated strings in src\lib\components\upload\EnhancedUploadProgress.svelte
+[2025-11-02T06:53:22.244Z] ✓ Fixed 2 $state placements in src\lib\components\upload\MinIOUpload.svelte
+[2025-11-02T06:53:22.250Z] ✓ Fixed 3 $state placements in src\lib\components\upload\OptimizedMinIOUpload.svelte
+[2025-11-02T06:53:22.257Z] ✓ Fixed 3 $state placements in src\lib\components\upload\UploadProgress.svelte
+[2025-11-02T06:53:22.259Z] ✓ Fixed 1 $state placements in src\lib\components\UploadArea.svelte
+[2025-11-02T06:53:22.264Z] ✓ Fixed 1 $state placements in src\lib\components\UserDropdown.svelte
+[2025-11-02T06:53:22.267Z] ✓ Fixed 2 unterminated strings in src\lib\components\validation\IntegrationValidator.svelte
+[2025-11-02T06:53:22.275Z] ✓ Fixed 4 $state placements in src\lib\components\vector\VectorSearchWidget.svelte
+[2025-11-02T06:53:22.276Z] ✓ Fixed 1 import quotes in src\lib\components\vector\VectorSearchWidget.svelte
+[2025-11-02T06:53:22.280Z] ✓ Fixed 2 $state placements in src\lib\components\visualization\Advanced3DEvidenceMap.svelte
+[2025-11-02T06:53:22.284Z] ✓ Fixed 2 $state placements in src\lib\components\visualization\CaseGraphLOD.svelte
+[2025-11-02T06:53:22.296Z] ✓ Fixed 2 $state placements in
+src\lib\components\visualization\InteractiveNetworkAnalysis.svelte [2025-11-02T06:53:22.299Z] ✓ Fixed 1 $state
+placements in src\lib\components\visualization\Legal3DVisualizationLOD.svelte [2025-11-02T06:53:22.303Z] ✓ Fixed 1
+$state placements in src\lib\components\visualization\LegalDocumentGraphViewer.svelte [2025-11-02T06:53:22.309Z] ⏳
+Progress: 1100/4189 files (680 fixes, 0 errors) [2025-11-02T06:53:22.311Z] ✓ Fixed 4 $state placements in
+src\lib\components\VoiceAssistant.svelte [2025-11-02T06:53:22.317Z] ✓ Fixed 1 $state placements in
+src\lib\components\yorha\CanvasBoard.svelte [2025-11-02T06:53:22.320Z] ✓ Fixed 3 $state placements in
+src\lib\components\yorha\EnhancedYoRHaAIAssistant.svelte [2025-11-02T06:53:22.325Z] ✓ Fixed 4 $state placements in
+src\lib\components\yorha\YoRHaAIChat.svelte [2025-11-02T06:53:22.332Z] ✓ Fixed 2 $state placements in
+src\lib\components\yorha\YoRHaCommandCenter.svelte [2025-11-02T06:53:22.335Z] ✓ Fixed 3 unterminated strings in
+src\lib\components\yorha\YoRHaCommandCenter.svelte [2025-11-02T06:53:22.337Z] ✓ Fixed 2 $state placements in
+src\lib\components\yorha\YoRHaCommandInterface.svelte [2025-11-02T06:53:22.344Z] ✓ Fixed 1 $state placements in
+src\lib\components\yorha\YoRHaDetectiveCommandCenter.svelte [2025-11-02T06:53:22.347Z] ✓ Fixed 5 unterminated strings in
+src\lib\components\yorha\YoRHaDetectiveCommandCenter.svelte [2025-11-02T06:53:22.359Z] ✓ Fixed 3 unterminated strings in
+src\lib\components\yorha\YoRHaNavigation.svelte [2025-11-02T06:53:22.361Z] ✓ Fixed 1 $state placements in
+src\lib\components\yorha\YoRHaNotification.svelte [2025-11-02T06:53:22.364Z] ✓ Fixed 2 unterminated strings in
+src\lib\components\yorha\YoRHaSystemStatus.svelte [2025-11-02T06:53:22.369Z] ✓ Fixed 1 $state placements in
+src\lib\components\yorha\YoRHaTerminal.svelte [2025-11-02T06:53:22.375Z] ✓ Fixed 2 $state placements in
+src\lib\components\_archive\svelte4\Avatar.svelte [2025-11-02T06:53:22.377Z] ✓ Fixed 1 $state placements in
+src\lib\components\_archive\svelte4\BitsDemo.svelte [2025-11-02T06:53:22.380Z] ✓ Fixed 2 $state placements in
+src\lib\components\_archive\svelte4\CanvasEditor.svelte [2025-11-02T06:53:22.389Z] ✓ Fixed 7 $state placements in
+src\lib\components\_archive\svelte4\ComprehensiveSummaryEngine.svelte [2025-11-02T06:53:22.394Z] ✓ Fixed 3 $state
+placements in src\lib\components\_archive\svelte4\EnhancedAIAssistant.new.svelte [2025-11-02T06:53:22.397Z] ✓ Fixed 2
+$state placements in src\lib\components\_archive\svelte4\EnhancedAIAssistant.simple.svelte [2025-11-02T06:53:22.398Z] ✓
+Fixed 1 component casing issues in src\lib\components\_archive\svelte4\EnhancedAIAssistant.simple.svelte
+[2025-11-02T06:53:22.399Z] ✓ Fixed 2 $state placements in src\lib\components\_archive\svelte4\ErrorBoundary.svelte
+[2025-11-02T06:53:22.403Z] ✓ Fixed 3 unterminated strings in
+src\lib\components\_archive\svelte4\EvidenceProcessor.svelte [2025-11-02T06:53:22.405Z] ✓ Fixed 1 $state placements in
+src\lib\components\_archive\svelte4\InfiniteScrollList.svelte [2025-11-02T06:53:22.408Z] ✓ Fixed 3 $state placements in
+src\lib\components\_archive\svelte4\InspectorPanel.svelte [2025-11-02T06:53:22.414Z] ✓ Fixed 1 $state placements in
+src\lib\components\_archive\svelte4\ProfessionalEditor.svelte [2025-11-02T06:53:22.416Z] ✓ Fixed 3 unterminated strings
+in src\lib\components\_archive\svelte4\ProgressIndicator.svelte [2025-11-02T06:53:22.423Z] ✓ Fixed 1 $state placements
+in src\lib\components\_archive\svelte4\ReportEditor.svelte [2025-11-02T06:53:22.427Z] ✓ Fixed 2 unterminated strings in
+src\lib\components\_archive\svelte4\ReviewSubmitForm.svelte [2025-11-02T06:53:22.429Z] ✓ Fixed 3 $state placements in
+src\lib\components\_archive\test-demo\demo\AdvancedCacheDemo.svelte [2025-11-02T06:53:22.433Z] ✓ Fixed 3 unterminated
+strings in src\lib\components\_archive\test-demo\demo\CachedRAGDemo.svelte [2025-11-02T06:53:22.436Z] ✓ Fixed 1
+component casing issues in src\lib\components\_archive\test-demo\demo\EnhancedCaseManagementDemo.svelte
+[2025-11-02T06:53:22.439Z] ✓ Fixed 1 unterminated strings in
+src\lib\components\_archive\test-demo\demo\EnhancedSemanticIntegration.svelte [2025-11-02T06:53:22.441Z] ✓ Fixed 3
+$state placements in src\lib\components\_archive\test-demo\demo\GamingCacheDemo.svelte [2025-11-02T06:53:22.444Z] ✓
+Fixed 1 unterminated strings in src\lib\components\_archive\test-demo\demo\GamingCacheDemo.svelte
+[2025-11-02T06:53:22.445Z] ✓ Fixed 1 $state placements in
+src\lib\components\_archive\test-demo\demo\IntegratedSystemDemo.svelte [2025-11-02T06:53:22.453Z] ✓ Fixed 1 unterminated
+strings in src\lib\components\_archive\test-demo\demo\VectorPipelineDemo.svelte [2025-11-02T06:53:22.464Z] ✓ Fixed 1
+unterminated strings in src\lib\components\_archive\test-demo\dev\Context7TestDemo.svelte [2025-11-02T06:53:22.465Z] ✓
+Fixed 3 $state placements in src\lib\components\_archive\test-demo\dev\CookieStatus.svelte [2025-11-02T06:53:22.477Z] ✓
+Fixed 1 $state placements in src\lib\components\_archive\test-demo\storybook\DiffusionEmbeddingEffects.stories.svelte
+[2025-11-02T06:53:22.481Z] ✓ Fixed 2 $state placements in
+src\lib\components\_archive\test-demo\storybook\PS1ParallaxDynamic.stories.svelte [2025-11-02T06:53:22.484Z] ✓ Fixed 2
+$state placements in src\lib\components\_archive\test-demo\storybook\PS1TextureFiltering.stories.svelte
+[2025-11-02T06:53:22.489Z] ✓ Fixed 4 unterminated strings in
+src\lib\components\_archive\test-demo\tests\ComprehensiveAITest.svelte [2025-11-02T06:53:22.493Z] ✓ Fixed 5 unterminated
+strings in src\lib\components\_archive\test-demo\tests\WebAssemblyLangChainTest.svelte [2025-11-02T06:53:22.497Z] ✓
+Fixed 2 $state placements in src\lib\composables\ui-state-runes.svelte.ts [2025-11-02T06:53:22.508Z] ⏳ Progress:
+1200/4189 files (780 fixes, 0 errors) [2025-11-02T06:53:22.555Z] ✓ Fixed 1 component casing issues in
+src\lib\enhanced-bits\Card.svelte [2025-11-02T06:53:22.556Z] ✓ Fixed 1 component casing issues in
+src\lib\enhanced-bits\Input.svelte [2025-11-02T06:53:22.578Z] ✓ Fixed 1 $state placements in
+src\lib\headless\HeadlessDialog.svelte [2025-11-02T06:53:22.579Z] ✓ Fixed 1 $state placements in
+src\lib\headless\HeadlessSelectField.svelte [2025-11-02T06:53:22.582Z] ✓ Fixed 1 $state placements in
+src\lib\hooks\useRedisOrchestrator.ts [2025-11-02T06:53:22.615Z] ⏳ Progress: 1300/4189 files (785 fixes, 0 errors)
+[2025-11-02T06:53:22.629Z] ✓ Fixed 4 $state placements in src\lib\machines\AIAssistantMachineComponent.svelte
+[2025-11-02T06:53:22.631Z] ✓ Fixed 5 unterminated strings in src\lib\machines\AIAssistantMachineComponent.svelte
+[2025-11-02T06:53:22.724Z] ✓ Fixed 1 $state placements in src\lib\optimization\json-wasm-optimizer.ts
+[2025-11-02T06:53:22.727Z] ✓ Fixed 1 $state placements in src\lib\optimization\neural-memory-manager.ts
+[2025-11-02T06:53:22.736Z] ✓ Fixed 1 $state placements in src\lib\optimization\ultra-json-processor.ts
+[2025-11-02T06:53:22.751Z] ⏳ Progress: 1400/4189 files (797 fixes, 0 errors) [2025-11-02T06:53:22.851Z] ⏳ Progress:
+1500/4189 files (797 fixes, 0 errors) [2025-11-02T06:53:22.878Z] ✓ Fixed 1 $state placements in
+src\lib\server\chrrom\predictor.ts [2025-11-02T06:53:22.889Z] ✓ Fixed 4 $state placements in
+src\lib\server\database\redis-client.ts [2025-11-02T06:53:22.917Z] ✓ Fixed 1 $state placements in
+src\lib\server\db\qdrant-integration.ts [2025-11-02T06:53:22.924Z] ⏳ Progress: 1600/4189 files (803 fixes, 0 errors)
+[2025-11-02T06:53:22.992Z] ⏳ Progress: 1700/4189 files (803 fixes, 0 errors) [2025-11-02T06:53:23.060Z] ⏳ Progress:
+1800/4189 files (803 fixes, 0 errors) [2025-11-02T06:53:23.139Z] ✓ Fixed 4 $state placements in
+src\lib\services\advanced_cache_manager.ts [2025-11-02T06:53:23.162Z] ⏳ Progress: 1900/4189 files (807 fixes, 0 errors)
+[2025-11-02T06:53:23.248Z] ✓ Fixed 3 $state placements in src\lib\services\concurrency-orchestrator.ts
+[2025-11-02T06:53:23.295Z] ⏳ Progress: 2000/4189 files (810 fixes, 0 errors) [2025-11-02T06:53:23.299Z] ✓ Fixed 1
+$state placements in src\lib\services\enhanced-embedding-service.ts [2025-11-02T06:53:23.345Z] ✓ Fixed 1 component
+casing issues in src\lib\services\fuse-search.ts [2025-11-02T06:53:23.355Z] ✓ Fixed 1 $state placements in
+src\lib\services\gguf-runtime.ts [2025-11-02T06:53:23.428Z] ⏳ Progress: 2100/4189 files (813 fixes, 0 errors)
+[2025-11-02T06:53:23.557Z] ✓ Fixed 2 $state placements in src\lib\services\postgresql-qdrant-sync.ts
+[2025-11-02T06:53:23.568Z] ⏳ Progress: 2200/4189 files (815 fixes, 0 errors) [2025-11-02T06:53:23.693Z] ⏳ Progress:
+2300/4189 files (815 fixes, 0 errors) [2025-11-02T06:53:23.705Z] ✓ Fixed 1 $state placements in
+src\lib\services\unified-wasm-gpu-orchestrator.ts [2025-11-02T06:53:23.805Z] ⏳ Progress: 2400/4189 files (816 fixes, 0
+errors) [2025-11-02T06:53:23.819Z] ✓ Fixed 3 $state placements in src\lib\state\phase13StateMachine.ts
+[2025-11-02T06:53:23.908Z] ⏳ Progress: 2500/4189 files (819 fixes, 0 errors) [2025-11-02T06:53:24.003Z] ⏳ Progress:
+2600/4189 files (819 fixes, 0 errors) [2025-11-02T06:53:24.045Z] ⏳ Progress: 2700/4189 files (819 fixes, 0 errors)
+[2025-11-02T06:53:24.060Z] ✓ Fixed 6 $state placements in src\lib\ui\enhanced\EvidenceCanvas.svelte
+[2025-11-02T06:53:24.075Z] ✓ Fixed 1 component casing issues in src\lib\ui\unified\components\UnifiedButton.svelte
+[2025-11-02T06:53:24.077Z] ✓ Fixed 1 component casing issues in src\lib\ui\unified\components\UnifiedDialog.svelte
+[2025-11-02T06:53:24.084Z] ✓ Fixed 1 $state placements in src\lib\utils\bits-ui-ssr.ts [2025-11-02T06:53:24.102Z] ✓
+Fixed 1 $state placements in src\lib\utils\error-handling.ts [2025-11-02T06:53:24.114Z] ⏳ Progress: 2800/4189 files
+(829 fixes, 0 errors) [2025-11-02T06:53:24.115Z] ✓ Fixed 1 $state placements in src\lib\utils\index.ts
+[2025-11-02T06:53:24.169Z] ✓ Fixed 2 $state placements in src\lib\wasm\simd-json-wrapper.ts [2025-11-02T06:53:24.174Z] ✓
+Fixed 1 $state placements in src\lib\wasm\vector-client.ts [2025-11-02T06:53:24.233Z] ⏳ Progress: 2900/4189 files (833
+fixes, 0 errors) [2025-11-02T06:53:24.240Z] ✓ Fixed 2 $state placements in src\lib\workers\kmeans-worker.js
+[2025-11-02T06:53:24.255Z] ✓ Fixed 1 $state placements in src\lib\workers\ranking-cache-worker.ts
+[2025-11-02T06:53:24.297Z] ✓ Fixed 1 $state placements in src\routes\(ai)\chat\+page.svelte [2025-11-02T06:53:24.299Z] ✓
+Fixed 2 unterminated strings in src\routes\(ai)\chat-simple\+page.svelte [2025-11-02T06:53:24.311Z] ✓ Fixed 1 $state
+placements in src\routes\(ai)\processing\+page.svelte [2025-11-02T06:53:24.318Z] ✓ Fixed 1 $state placements in
+src\routes\(ai)\summary\+page.svelte [2025-11-02T06:53:24.343Z] ✓ Fixed 4 $state placements in
+src\routes\(evidence)\main\analyze\+page.svelte [2025-11-02T06:53:24.348Z] ✓ Fixed 5 $state placements in
+src\routes\(evidence)\main\files\+page.svelte [2025-11-02T06:53:24.359Z] ✓ Fixed 2 $state placements in
+src\routes\(evidence)\main\organize\[caseId]\+page.svelte [2025-11-02T06:53:24.366Z] ✓ Fixed 2 $state placements in
+src\routes\(evidence)\main\upload\+page.svelte [2025-11-02T06:53:24.373Z] ✓ Fixed 6 unterminated strings in
+src\routes\(evidence)\workspace\+page.svelte [2025-11-02T06:53:24.385Z] ✓ Fixed 1 $state placements in
+src\routes\(tools)\editor\+page.svelte [2025-11-02T06:53:24.394Z] ✓ Fixed 1 unterminated strings in
+src\routes\+page.svelte [2025-11-02T06:53:24.395Z] ⏳ Progress: 3000/4189 files (862 fixes, 0 errors)
+[2025-11-02T06:53:24.398Z] ✓ Fixed 1 unterminated strings in src\routes\admin\+page.svelte [2025-11-02T06:53:24.400Z] ✓
+Fixed 1 $state placements in src\routes\admin\cluster\+page.svelte [2025-11-02T06:53:24.402Z] ✓ Fixed 1 unterminated
+strings in src\routes\admin\cluster\+page.svelte [2025-11-02T06:53:24.405Z] ✓ Fixed 3 $state placements in
+src\routes\admin\gpu-demo\+page.svelte [2025-11-02T06:53:24.410Z] ✓ Fixed 2 $state placements in
+src\routes\admin\redis\detailed\+page.svelte [2025-11-02T06:53:24.417Z] ✓ Fixed 2 $state placements in
+src\routes\admin\users\+page.svelte [2025-11-02T06:53:24.421Z] ✓ Fixed 6 $state placements in
+src\routes\admin\users\[userId]\+page.svelte [2025-11-02T06:53:24.425Z] ✓ Fixed 1 $state placements in
+src\routes\agent-demo\+page.svelte [2025-11-02T06:53:24.427Z] ✓ Fixed 2 unterminated strings in
+src\routes\agent-demo\+page.svelte [2025-11-02T06:53:24.429Z] ✓ Fixed 1 $state placements in
+src\routes\agent-demo\page-backup.svelte [2025-11-02T06:53:24.430Z] ✓ Fixed 2 unterminated strings in
+src\routes\agent-demo\page-backup.svelte [2025-11-02T06:53:24.433Z] ✓ Fixed 4 $state placements in
+src\routes\ai\assistant\+page.svelte [2025-11-02T06:53:24.439Z] ✓ Fixed 5 $state placements in
+src\routes\ai\chat\+page.svelte [2025-11-02T06:53:24.451Z] ✓ Fixed 3 $state placements in
+src\routes\all-routes\+page.svelte [2025-11-02T06:53:24.456Z] ✓ Fixed 4 unterminated strings in
+src\routes\all-routes\+page.svelte [2025-11-02T06:53:24.459Z] ✓ Fixed 1 $state placements in
+src\routes\api\admin\cache-dashboard\+server.ts [2025-11-02T06:53:24.529Z] ⏳ Progress: 3100/4189 files (901 fixes, 0
+errors) [2025-11-02T06:53:24.610Z] ⏳ Progress: 3200/4189 files (901 fixes, 0 errors) [2025-11-02T06:53:24.617Z] ✓ Fixed
+1 $state placements in src\routes\api\cases\+server.ts [2025-11-02T06:53:24.692Z] ✓ Fixed 2 $state placements in
+src\routes\api\dev-auth\diagnostics\+server.ts [2025-11-02T06:53:24.699Z] ⏳ Progress: 3300/4189 files (904 fixes, 0
+errors) [2025-11-02T06:53:24.711Z] ✓ Fixed 1 $state placements in src\routes\api\documents\upload-ocr\+server.ts
+[2025-11-02T06:53:24.803Z] ⏳ Progress: 3400/4189 files (905 fixes, 0 errors) [2025-11-02T06:53:24.811Z] ✓ Fixed 1
+$state placements in src\routes\api\health\redis\+server.ts [2025-11-02T06:53:24.829Z] ✓ Fixed 2 $state placements in
+src\routes\api\jobs\stream\+server.ts [2025-11-02T06:53:24.847Z] ✓ Fixed 2 $state placements in
+src\routes\api\legal\ingest\+server.ts [2025-11-02T06:53:24.883Z] ⏳ Progress: 3500/4189 files (910 fixes, 0 errors)
+[2025-11-02T06:53:24.950Z] ✓ Fixed 1 $state placements in src\routes\api\rag\upload\+server.ts
+[2025-11-02T06:53:24.962Z] ✓ Fixed 2 $state placements in src\routes\api\reports\+server.ts [2025-11-02T06:53:24.974Z]
+⏳ Progress: 3600/4189 files (913 fixes, 0 errors) [2025-11-02T06:53:25.044Z] ✓ Fixed 4 $state placements in
+src\routes\api\test\quic-go-integration\+server.ts [2025-11-02T06:53:25.046Z] ✓ Fixed 1 $state placements in
+src\routes\api\test\redis-connection\+server.ts [2025-11-02T06:53:25.069Z] ✓ Fixed 1 $state placements in
+src\routes\api\test-rag\search\+server.ts [2025-11-02T06:53:25.072Z] ✓ Fixed 1 $state placements in
+src\routes\api\test-rag\upload\+server.ts [2025-11-02T06:53:25.083Z] ⏳ Progress: 3700/4189 files (920 fixes, 0 errors)
+[2025-11-02T06:53:25.102Z] ✓ Fixed 1 $state placements in src\routes\api\v1\agentic\+server.ts
+[2025-11-02T06:53:25.182Z] ⏳ Progress: 3800/4189 files (921 fixes, 0 errors) [2025-11-02T06:53:25.203Z] ✓ Fixed 1
+$state placements in src\routes\api\v1\quic\gateway\+server.ts [2025-11-02T06:53:25.274Z] ✓ Fixed 2 $state placements in
+src\routes\api\v2\legal-platform\+server.ts [2025-11-02T06:53:25.301Z] ⏳ Progress: 3900/4189 files (924 fixes, 0
+errors) [2025-11-02T06:53:25.333Z] ✓ Fixed 3 unterminated strings in src\routes\auth\+page.svelte
+[2025-11-02T06:53:25.335Z] ✓ Fixed 1 $state placements in src\routes\auth\login\+page.svelte [2025-11-02T06:53:25.340Z]
+✓ Fixed 1 $state placements in src\routes\auth\logout\+page.svelte [2025-11-02T06:53:25.342Z] ✓ Fixed 1 $state
+placements in src\routes\auth\register\+page.svelte [2025-11-02T06:53:25.349Z] ✓ Fixed 21 $state placements in
+src\routes\authenticated-crud-test\+page.svelte [2025-11-02T06:53:25.355Z] ✓ Fixed 1 $state placements in
+src\routes\cache\redis-admin\+page.svelte [2025-11-02T06:53:25.357Z] ✓ Fixed 1 unterminated strings in
+src\routes\cache\redis-admin\+page.svelte [2025-11-02T06:53:25.362Z] ✓ Fixed 2 $state placements in
+src\routes\cuda-streaming\+page.svelte [2025-11-02T06:53:25.364Z] ✓ Fixed 1 unterminated strings in
+src\routes\cuda-streaming\+page.svelte [2025-11-02T06:53:25.367Z] ✓ Fixed 1 unterminated strings in
+src\routes\demo\agentic-rag\+page.svelte [2025-11-02T06:53:25.382Z] ✓ Fixed 3 $state placements in
+src\routes\detective\[caseId]\+page.svelte [2025-11-02T06:53:25.389Z] ✓ Fixed 9 unterminated strings in
+src\routes\dev\copilot-optimizer\+page.svelte [2025-11-02T06:53:25.394Z] ✓ Fixed 2 $state placements in
+src\routes\dev\ingestion-dashboard\+page.svelte [2025-11-02T06:53:25.400Z] ✓ Fixed 3 $state placements in
+src\routes\dev\qdrant\+page.svelte [2025-11-02T06:53:25.410Z] ✓ Fixed 1 $state placements in
+src\routes\dev\vite-error-demo\+page.svelte [2025-11-02T06:53:25.411Z] ✓ Fixed 2 unterminated strings in
+src\routes\dev\vite-error-demo\+page.svelte [2025-11-02T06:53:25.418Z] ✓ Fixed 3 $state placements in
+src\routes\enhanced\+page.svelte [2025-11-02T06:53:25.420Z] ✓ Fixed 1 $state placements in
+src\routes\evidence\+page.svelte [2025-11-02T06:53:25.424Z] ✓ Fixed 4 $state placements in
+src\routes\evidence\analyze\+page.svelte [2025-11-02T06:53:25.433Z] ✓ Fixed 2 $state placements in
+src\routes\evidence\organize\[caseId]\+page.svelte [2025-11-02T06:53:25.437Z] ⏳ Progress: 4000/4189 files (987 fixes, 0
+errors) [2025-11-02T06:53:25.439Z] ✓ Fixed 3 $state placements in src\routes\evidence\upload\+page.svelte
+[2025-11-02T06:53:25.442Z] ✓ Fixed 6 $state placements in src\routes\evidence-ai\+page.svelte [2025-11-02T06:53:25.451Z]
+✓ Fixed 6 unterminated strings in src\routes\evidence-workspace\+page.svelte [2025-11-02T06:53:25.454Z] ✓ Fixed 1 $state
+placements in src\routes\export\+page.svelte [2025-11-02T06:53:25.459Z] ✓ Fixed 1 $state placements in
+src\routes\gaming-evidence-board\+page.svelte [2025-11-02T06:53:25.462Z] ✓ Fixed 1 unterminated strings in
+src\routes\graph\+page.svelte [2025-11-02T06:53:25.463Z] ✓ Fixed 1 $state placements in src\routes\healthz\+server.ts
+[2025-11-02T06:53:25.464Z] ✓ Fixed 2 $state placements in src\routes\healthz\deep\+server.ts [2025-11-02T06:53:25.468Z]
+✓ Fixed 2 $state placements in src\routes\import\+page.svelte [2025-11-02T06:53:25.472Z] ✓ Fixed 1 $state placements in
+src\routes\intelligence\contextual\+page.svelte [2025-11-02T06:53:25.477Z] ✓ Fixed 1 component casing issues in
+src\routes\investigation\+page.svelte [2025-11-02T06:53:25.484Z] ✓ Fixed 2 $state placements in
+src\routes\legal\case\evidence-gallery\+page.svelte [2025-11-02T06:53:25.485Z] ✓ Fixed 1 unterminated strings in
+src\routes\legal\case\evidence-gallery\+page.svelte [2025-11-02T06:53:25.487Z] ✓ Fixed 2 $state placements in
+src\routes\legal\case-theory\+page.svelte [2025-11-02T06:53:25.490Z] ✓ Fixed 1 $state placements in
+src\routes\legal\detective\motive-analysis\+page.svelte [2025-11-02T06:53:25.494Z] ✓ Fixed 3 $state placements in
+src\routes\legal\documents\+page.svelte [2025-11-02T06:53:25.496Z] ✓ Fixed 1 unterminated strings in
+src\routes\legal\documents\+page.svelte [2025-11-02T06:53:25.498Z] ✓ Fixed 1 $state placements in
+src\routes\legal\precedent\matching\+page.svelte [2025-11-02T06:53:25.506Z] ✓ Fixed 1 unterminated strings in
+src\routes\legal\research\+page.svelte [2025-11-02T06:53:25.507Z] ✓ Fixed 2 $state placements in
+src\routes\legal-ai\+page.server.ts [2025-11-02T06:53:25.508Z] ✓ Fixed 2 $state placements in
+src\routes\legal-ai\database-sync-test\+page.server.ts [2025-11-02T06:53:25.531Z] ✓ Fixed 1 $state placements in
+src\routes\optimization-dashboard\+page.svelte [2025-11-02T06:53:25.541Z] ✓ Fixed 2 unterminated strings in
+src\routes\perf\+page.svelte [2025-11-02T06:53:25.548Z] ✓ Fixed 1 unterminated strings in src\routes\poi\+page.svelte
+[2025-11-02T06:53:25.550Z] ✓ Fixed 2 $state placements in src\routes\poi-manager\+page.svelte [2025-11-02T06:53:25.556Z]
+✓ Fixed 1 unterminated strings in src\routes\protected\+page.svelte [2025-11-02T06:53:25.570Z] ✓ Fixed 1 $state
+placements in src\routes\saved-citations\+page.svelte [2025-11-02T06:53:25.584Z] ✓ Fixed 1 $state placements in
+src\routes\spa\+page.svelte [2025-11-02T06:53:25.587Z] ⏳ Progress: 4100/4189 files (1037 fixes, 0 errors)
+[2025-11-02T06:53:25.593Z] ✓ Fixed 1 unterminated strings in src\routes\status\+page.svelte [2025-11-02T06:53:25.603Z] ✓
+Fixed 1 $state placements in src\routes\system-status\+page.svelte [2025-11-02T06:53:25.608Z] ✓ Fixed 1 $state
+placements in src\routes\text-editor\+page.svelte [2025-11-02T06:53:25.611Z] ✓ Fixed 3 $state placements in
+src\routes\ui-preview\+page.svelte [2025-11-02T06:53:25.617Z] ✓ Fixed 2 $state placements in
+src\routes\upload-test\+page.svelte [2025-11-02T06:53:25.620Z] ✓ Fixed 3 $state placements in src\routes\w1\+page.svelte
+[2025-11-02T06:53:25.624Z] ✓ Fixed 3 $state placements in src\routes\webgpu-test\+page.svelte [2025-11-02T06:53:25.627Z]
+✓ Fixed 2 $state placements in src\routes\yorha\+layout.svelte [2025-11-02T06:53:25.642Z] ✓ Fixed 2 $state placements in
+src\routes\yorha\detective\+page.svelte [2025-11-02T06:53:25.650Z] ✓ Fixed 1 $state placements in
+src\routes\yorha-detective\+page.svelte [2025-11-02T06:53:25.664Z] ✓ Fixed 1 $state placements in
+src\wasm\legal-parser.ts [2025-11-02T06:53:25.667Z] ✓ Fixed 1 $state placements in src\wasm\simd-json-parser.ts
+[2025-11-02T06:53:25.672Z] [2025-11-02T06:53:25.673Z] ────────────────────────────────────────────────────────────
+[2025-11-02T06:53:25.673Z] ✅ Phase 1 Complete [2025-11-02T06:53:25.674Z] 📊 Statistics: [2025-11-02T06:53:25.674Z]
+Files modified: 456 [2025-11-02T06:53:25.674Z] Total fixes: 1058 [2025-11-02T06:53:25.675Z] Errors: 0
+[2025-11-02T06:53:25.675Z] Time: 5.16s [2025-11-02T06:53:25.675Z] Log:
+agentic-error-resolution\logs\phase1-1762066400517.log

@@ -1,0 +1,163 @@
+[2025-11-02T07:39:22.707Z] 🚀 Phase 1: Automated Error Fixes [2025-11-02T07:39:22.718Z] 📁 Root:
+C:\Users\james\Videos\deeds-web-app\sveltekit-frontend [2025-11-02T07:39:22.880Z] 📊 Found 1150 Svelte files
+[2025-11-02T07:39:22.893Z] ✅ Fixed: src\lib\components\+AddNotesSection.svelte [2025-11-02T07:39:22.900Z] ✅ Fixed:
+src\lib\components\AdvancedRichTextEditor.svelte [2025-11-02T07:39:22.935Z] ✅ Fixed:
+src\lib\components\ai\AIChatInterface.svelte [2025-11-02T07:39:22.940Z] ✅ Fixed:
+src\lib\components\ai\AIChatWidget.svelte [2025-11-02T07:39:22.963Z] ✅ Fixed: src\lib\components\ai\AskAI.svelte
+[2025-11-02T07:39:22.966Z] ✅ Fixed: src\lib\components\ai\AuditResults.svelte [2025-11-02T07:39:22.977Z] ✅ Fixed:
+src\lib\components\ai\CaseScoringDashboard.svelte [2025-11-02T07:39:23.019Z] ✅ Fixed:
+src\lib\components\ai\Enhanced3DLegalAIInterface.svelte [2025-11-02T07:39:23.025Z] ✅ Fixed:
+src\lib\components\ai\EnhancedAIAssistant.simple.svelte [2025-11-02T07:39:23.033Z] ✅ Fixed:
+src\lib\components\ai\EnhancedAIAssistant.svelte [2025-11-02T07:39:23.054Z] ✅ Fixed:
+src\lib\components\ai\EnhancedDocumentUploader.svelte [2025-11-02T07:39:23.063Z] ✅ Fixed:
+src\lib\components\ai\EnhancedInlineEditor.svelte [2025-11-02T07:39:23.100Z] ✅ Fixed:
+src\lib\components\ai\EnhancedVectorSearch.svelte [2025-11-02T07:39:23.108Z] ✅ Fixed:
+src\lib\components\ai\FileUpload.svelte [2025-11-02T07:39:23.120Z] ✅ Fixed:
+src\lib\components\ai\GamingAIInterface.svelte [2025-11-02T07:39:23.125Z] ✅ Fixed:
+src\lib\components\ai\Gemma270MWebAssembly.svelte [2025-11-02T07:39:23.151Z] ✅ Fixed:
+src\lib\components\ai\IntelligentWebAnalysisDemo.svelte [2025-11-02T07:39:23.160Z] ✅ Fixed:
+src\lib\components\ai\legal\ComprehensiveLegalAI.svelte [2025-11-02T07:39:23.180Z] ✅ Fixed:
+src\lib\components\ai\LLMSelector.svelte [2025-11-02T07:39:23.206Z] ✅ Fixed:
+src\lib\components\ai\NeuralTopology3DDemo.svelte [2025-11-02T07:39:23.211Z] ✅ Fixed:
+src\lib\components\ai\OCRTensorDemo.svelte [2025-11-02T07:39:23.219Z] ✅ Fixed:
+src\lib\components\ai\PatternDetectionInterface.svelte [2025-11-02T07:39:23.235Z] ✅ Fixed:
+src\lib\components\ai\rag\DocumentUpload.svelte [2025-11-02T07:39:23.253Z] ✅ Fixed:
+src\lib\components\ai\RecommendationEngine.svelte [2025-11-02T07:39:23.310Z] ✅ Fixed:
+src\lib\components\ai\UnifiedAIAssistant.svelte [2025-11-02T07:39:23.345Z] ✅ Fixed:
+src\lib\components\ai\webgpu\WebGPUProcessor.svelte [2025-11-02T07:39:23.359Z] ✅ Fixed:
+src\lib\components\ai\webgpu\WebGPUWebAssemblyBridge.svelte [2025-11-02T07:39:23.375Z] ✅ Fixed:
+src\lib\components\ai\WWWHAnalyzer.svelte [2025-11-02T07:39:23.391Z] ✅ Fixed:
+src\lib\components\ai\YorhaAIAssistant.svelte [2025-11-02T07:39:23.407Z] ✅ Fixed:
+src\lib\components\AIAssistantButton.svelte [2025-11-02T07:39:23.430Z] ✅ Fixed:
+src\lib\components\auth\EnhancedAuthForm.svelte [2025-11-02T07:39:23.436Z] ✅ Fixed:
+src\lib\components\auth\ModernAuthForm.svelte [2025-11-02T07:39:23.472Z] ✅ Fixed:
+src\lib\components\canvas\CollaborativeEvidenceCanvas.svelte [2025-11-02T07:39:23.476Z] ✅ Fixed:
+src\lib\components\canvas\EnhancedEvidenceCanvas.svelte [2025-11-02T07:39:23.479Z] ✅ Fixed:
+src\lib\components\canvas\EnhancedLegalCanvas.svelte [2025-11-02T07:39:23.485Z] ✅ Fixed:
+src\lib\components\canvas\EvidenceCanvas.svelte [2025-11-02T07:39:23.495Z] ✅ Fixed:
+src\lib\components\canvas\EvidenceCanvasEditor.svelte [2025-11-02T07:39:23.502Z] ✅ Fixed:
+src\lib\components\canvas\FabricCanvas.svelte [2025-11-02T07:39:23.511Z] ✅ Fixed:
+src\lib\components\canvas\FabricEvidenceCanvas.svelte [2025-11-02T07:39:23.524Z] ✅ Fixed:
+src\lib\components\canvas\RecursiveEvidenceVisualization.svelte [2025-11-02T07:39:23.531Z] ✅ Fixed:
+src\lib\components\cases\CaseCard.svelte [2025-11-02T07:39:23.545Z] ✅ Fixed:
+src\lib\components\chat\nes-typewriter-stream.svelte [2025-11-02T07:39:23.549Z] ✅ Fixed:
+src\lib\components\chat\SSRQLorAChatInterface.svelte [2025-11-02T07:39:23.557Z] ✅ Fixed: src\lib\components\Chat.svelte
+[2025-11-02T07:39:23.562Z] ✅ Fixed: src\lib\components\chr-rom\DocumentListCHRROM.svelte [2025-11-02T07:39:23.589Z] ✅
+Fixed: src\lib\components\dashboard\EvidenceAnalysisDashboard.svelte [2025-11-02T07:39:23.606Z] ✅ Fixed:
+src\lib\components\detective\DetectiveBoard.svelte [2025-11-02T07:39:23.610Z] ✅ Fixed:
+src\lib\components\detective\UploadZone.svelte [2025-11-02T07:39:23.625Z] ✅ Fixed:
+src\lib\components\EditableCanvasSystem.svelte [2025-11-02T07:39:23.630Z] ✅ Fixed:
+src\lib\components\editor\LegalDocumentEditor.svelte [2025-11-02T07:39:23.636Z] ✅ Fixed:
+src\lib\components\editor\ReportEditor.svelte [2025-11-02T07:39:23.667Z] ✅ Fixed:
+src\lib\components\EnhancedCanvasEditor.svelte [2025-11-02T07:39:23.674Z] ✅ Fixed:
+src\lib\components\EnhancedLegalAI.svelte [2025-11-02T07:39:23.685Z] ✅ Fixed:
+src\lib\components\EnhancedLegalCaseManager.svelte [2025-11-02T07:39:23.728Z] ✅ Fixed:
+src\lib\components\evidence\EvidenceCard.svelte [2025-11-02T07:39:23.738Z] ✅ Fixed:
+src\lib\components\evidence\EvidenceManager.svelte [2025-11-02T07:39:23.746Z] ✅ Fixed:
+src\lib\components\evidence\EvidenceProcessingWorkflow.svelte [2025-11-02T07:39:23.762Z] ✅ Fixed:
+src\lib\components\EvidenceGrid.svelte [2025-11-02T07:39:23.771Z] ✅ Fixed: src\lib\components\EvidenceUpload.svelte
+[2025-11-02T07:39:23.775Z] ✅ Fixed: src\lib\components\EvidenceUploader.svelte [2025-11-02T07:39:23.785Z] ✅ Fixed:
+src\lib\components\feedback\FeedbackIntegration.svelte [2025-11-02T07:39:23.789Z] ✅ Fixed:
+src\lib\components\feedback\FeedbackWidget.svelte [2025-11-02T07:39:23.851Z] ✅ Fixed:
+src\lib\components\glyph\GlyphGenerator.svelte [2025-11-02T07:39:23.876Z] ✅ Fixed:
+src\lib\components\HeadlessTypingListener.svelte [2025-11-02T07:39:23.897Z] ✅ Fixed:
+src\lib\components\keyboard\KeyboardShortcuts.svelte [2025-11-02T07:39:23.926Z] ✅ Fixed:
+src\lib\components\layout\ProductionLayout.svelte [2025-11-02T07:39:23.947Z] ✅ Fixed:
+src\lib\components\lazy\LazyAIAnalysis.svelte [2025-11-02T07:39:23.954Z] ✅ Fixed:
+src\lib\components\lazy\LazyChart.svelte [2025-11-02T07:39:23.979Z] ✅ Fixed:
+src\lib\components\legal\CaseAutomation.svelte [2025-11-02T07:39:23.985Z] ✅ Fixed:
+src\lib\components\legal\CaseManager.svelte [2025-11-02T07:39:24.041Z] ✅ Fixed:
+src\lib\components\legal\LegalAIChat.svelte [2025-11-02T07:39:24.078Z] ✅ Fixed:
+src\lib\components\modals\AISummaryModal.svelte [2025-11-02T07:39:24.081Z] ✅ Fixed:
+src\lib\components\modals\EvidenceAnalysisModal.svelte [2025-11-02T07:39:24.088Z] ✅ Fixed:
+src\lib\components\modals\EvidenceUploadModal.svelte [2025-11-02T07:39:24.105Z] ✅ Fixed:
+src\lib\components\Neo4jRecommendation3DViewer.svelte [2025-11-02T07:39:24.125Z] ✅ Fixed:
+src\lib\components\notes\LegalNotesManager.svelte [2025-11-02T07:39:24.134Z] ✅ Fixed:
+src\lib\components\observability\ObservabilityPanel.svelte [2025-11-02T07:39:24.147Z] ✅ Fixed:
+src\lib\components\poi\PoiImageUpload.svelte [2025-11-02T07:39:24.153Z] ✅ Fixed:
+src\lib\components\prosecutor\EnhancedAIChatAssistant.svelte [2025-11-02T07:39:24.159Z] ✅ Fixed:
+src\lib\components\prosecutor\EvidenceUploadComponent.svelte [2025-11-02T07:39:24.192Z] ✅ Fixed:
+src\lib\components\recommendations\RecommendationDashboard.svelte [2025-11-02T07:39:24.216Z] ✅ Fixed:
+src\lib\components\search\InstantLegalSearch.svelte [2025-11-02T07:39:24.226Z] ✅ Fixed:
+src\lib\components\search\RealTimeLegalSearch.svelte [2025-11-02T07:39:24.271Z] ✅ Fixed:
+src\lib\components\three\yorha-ui\YoRHaAAShaderCache.svelte [2025-11-02T07:39:24.287Z] ✅ Fixed:
+src\lib\components\ui\AccessibilitySettings.svelte [2025-11-02T07:39:24.297Z] ✅ Fixed:
+src\lib\components\ui\ai\AIDropdown.svelte [2025-11-02T07:39:24.339Z] ✅ Fixed: src\lib\components\ui\bits\Board.svelte
+[2025-11-02T07:39:24.374Z] ✅ Fixed: src\lib\components\ui\bits\Dialog.svelte [2025-11-02T07:39:24.426Z] ✅ Fixed:
+src\lib\components\ui\bits\EvidenceBoard.svelte [2025-11-02T07:39:24.470Z] ✅ Fixed:
+src\lib\components\ui\bits\IntelligentRenderer.svelte [2025-11-02T07:39:24.505Z] ✅ Fixed:
+src\lib\components\ui\bits\NESGamingShowcase.svelte [2025-11-02T07:39:24.633Z] ✅ Fixed:
+src\lib\components\ui\core\YorHADetectiveInterface.svelte [2025-11-02T07:39:24.688Z] ✅ Fixed:
+src\lib\components\ui\DiamondModal.svelte [2025-11-02T07:39:24.705Z] ✅ Fixed:
+src\lib\components\ui\dropdown-menu\DropdownMenuRoot.svelte [2025-11-02T07:39:24.708Z] ✅ Fixed:
+src\lib\components\ui\dropdown-menu\DropdownMenuTrigger.svelte [2025-11-02T07:39:24.710Z] ✅ Fixed:
+src\lib\components\ui\Dropdown.svelte [2025-11-02T07:39:24.738Z] ✅ Fixed: src\lib\components\ui\ExpandGrid.svelte
+[2025-11-02T07:39:24.820Z] ✅ Fixed: src\lib\components\ui\gaming\n64\HTML5Canvas.svelte [2025-11-02T07:39:24.846Z] ✅
+Fixed: src\lib\components\ui\gaming\n64\N64TextureFilteringCache.svelte [2025-11-02T07:39:24.903Z] ✅ Fixed:
+src\lib\components\ui\gaming\N64DetectiveUI.svelte [2025-11-02T07:39:24.954Z] ✅ Fixed:
+src\lib\components\ui\grid\Grid.svelte [2025-11-02T07:39:25.093Z] ✅ Fixed:
+src\lib\components\ui\wrappers\bits\Button.svelte [2025-11-02T07:39:25.098Z] ✅ Fixed:
+src\lib\components\ui\wrappers\bits\DialogTrigger.svelte [2025-11-02T07:39:25.127Z] ✅ Fixed:
+src\lib\components\UnifiedIntegrationDemo.svelte [2025-11-02T07:39:25.131Z] ✅ Fixed:
+src\lib\components\upload\+FileUploadSection.svelte [2025-11-02T07:39:25.143Z] ✅ Fixed:
+src\lib\components\upload\AdvancedFileUpload.svelte [2025-11-02T07:39:25.151Z] ✅ Fixed:
+src\lib\components\upload\EnhancedLegalUpload.svelte [2025-11-02T07:39:25.161Z] ✅ Fixed:
+src\lib\components\upload\EnhancedUploadProgress.svelte [2025-11-02T07:39:25.182Z] ✅ Fixed:
+src\lib\components\upload\N64MinIOUpload.svelte [2025-11-02T07:39:25.193Z] ✅ Fixed:
+src\lib\components\upload\OptimizedMinIOUpload.svelte [2025-11-02T07:39:25.195Z] ✅ Fixed:
+src\lib\components\upload\UploadProgress.svelte [2025-11-02T07:39:25.202Z] ✅ Fixed:
+src\lib\components\UploadAreaExample.svelte [2025-11-02T07:39:25.232Z] ✅ Fixed:
+src\lib\components\visualization\CaseGraphLOD.svelte [2025-11-02T07:39:25.241Z] ✅ Fixed:
+src\lib\components\visualization\DocumentLODViewer.svelte [2025-11-02T07:39:25.286Z] ✅ Fixed:
+src\lib\components\WebGPUProcessor.svelte [2025-11-02T07:39:25.292Z] ✅ Fixed:
+src\lib\components\yorha\CanvasBoard.svelte [2025-11-02T07:39:25.310Z] ✅ Fixed:
+src\lib\components\yorha\YoRHaCaseForm.svelte [2025-11-02T07:39:25.319Z] ✅ Fixed:
+src\lib\components\yorha\YoRHaCommandCenter.svelte [2025-11-02T07:39:25.387Z] ✅ Fixed:
+src\lib\components\_archive\svelte4\CaseSummaryModal.svelte [2025-11-02T07:39:25.468Z] ✅ Fixed:
+src\lib\components\_archive\test-demo\demo\PerformanceOptimizedEvidenceBoard.svelte [2025-11-02T07:39:25.482Z] ✅ Fixed:
+src\lib\components\_archive\test-demo\demo\WasmGpuDemo.svelte [2025-11-02T07:39:25.496Z] ✅ Fixed:
+src\lib\components\_archive\test-demo\demo\WebGPUQuantizationDemo.svelte [2025-11-02T07:39:25.527Z] ✅ Fixed:
+src\lib\components\_archive\test-demo\examples\NESMemoryArchitectureExample.svelte [2025-11-02T07:39:25.536Z] ✅ Fixed:
+src\lib\components\_archive\test-demo\examples\NESTextureStreamingExample.svelte [2025-11-02T07:39:25.542Z] ✅ Fixed:
+src\lib\components\_archive\test-demo\storybook\DiffusionEmbeddingEffects.stories.svelte [2025-11-02T07:39:25.571Z] ✅
+Fixed: src\lib\enhanced-bits\Dialog.svelte [2025-11-02T07:39:25.593Z] ✅ Fixed:
+src\lib\stories\SubsampleAADemo.stories.svelte [2025-11-02T07:39:25.595Z] ✅ Fixed:
+src\lib\templates\EssentialRoutePage.svelte [2025-11-02T07:39:25.626Z] ✅ Fixed: src\routes\(ai)\ai-hub.svelte
+[2025-11-02T07:39:25.635Z] ✅ Fixed: src\routes\(ai)\assistant\+page.svelte [2025-11-02T07:39:25.644Z] ✅ Fixed:
+src\routes\(ai)\dashboard\+page.svelte [2025-11-02T07:39:25.670Z] ✅ Fixed: src\routes\(ai)\vector-search\+page.svelte
+[2025-11-02T07:39:25.686Z] ✅ Fixed: src\routes\(evidence)\analysis\+page.svelte [2025-11-02T07:39:25.701Z] ✅ Fixed:
+src\routes\(evidence)\main\hash\+page.svelte [2025-11-02T07:39:25.708Z] ✅ Fixed:
+src\routes\(evidence)\main\realtime\+page.svelte [2025-11-02T07:39:25.713Z] ✅ Fixed:
+src\routes\(evidence)\main\upload\+page.svelte [2025-11-02T07:39:25.719Z] ✅ Fixed:
+src\routes\(evidence)\workspace\+page.svelte [2025-11-02T07:39:25.728Z] ✅ Fixed:
+src\routes\(legal)\citations\+page.svelte [2025-11-02T07:39:25.739Z] ✅ Fixed:
+src\routes\(tools)\report-builder\+page.svelte [2025-11-02T07:39:25.768Z] ✅ Fixed:
+src\routes\admin\service-graph\+page.svelte [2025-11-02T07:39:25.779Z] ✅ Fixed: src\routes\agent-demo\+page.svelte
+[2025-11-02T07:39:25.785Z] ✅ Fixed: src\routes\agent-demo\page-backup.svelte [2025-11-02T07:39:25.822Z] ✅ Fixed:
+src\routes\auth\logout\+page.svelte [2025-11-02T07:39:25.829Z] ✅ Fixed: src\routes\auth\test\+page.svelte
+[2025-11-02T07:39:25.905Z] ✅ Fixed: src\routes\dev\qdrant\+page.svelte [2025-11-02T07:39:25.912Z] ✅ Fixed:
+src\routes\dev\route-explorer\+page.svelte [2025-11-02T07:39:25.925Z] ✅ Fixed: src\routes\dev\tensor-demo\+page.svelte
+[2025-11-02T07:39:25.978Z] ✅ Fixed: src\routes\evidence\analyze\+page.svelte [2025-11-02T07:39:25.986Z] ✅ Fixed:
+src\routes\evidence\hash\+page.svelte [2025-11-02T07:39:25.999Z] ✅ Fixed: src\routes\evidence\realtime\+page.svelte
+[2025-11-02T07:39:26.030Z] ✅ Fixed: src\routes\evidence-analysis\+page.svelte [2025-11-02T07:39:26.039Z] ✅ Fixed:
+src\routes\evidence-editor\+page.svelte [2025-11-02T07:39:26.054Z] ✅ Fixed: src\routes\evidence-workspace\+page.svelte
+[2025-11-02T07:39:26.068Z] ✅ Fixed: src\routes\export\+page.svelte [2025-11-02T07:39:26.106Z] ✅ Fixed:
+src\routes\import\+page.svelte [2025-11-02T07:39:26.113Z] ✅ Fixed: src\routes\intelligence\contextual\+page.svelte
+[2025-11-02T07:39:26.127Z] ✅ Fixed: src\routes\law\+page.svelte [2025-11-02T07:39:26.140Z] ✅ Fixed:
+src\routes\legal\case\evidence-gallery\+page.svelte [2025-11-02T07:39:26.147Z] ✅ Fixed:
+src\routes\legal\case-theory\+page.svelte [2025-11-02T07:39:26.161Z] ✅ Fixed:
+src\routes\legal\detective\motive-analysis\+page.svelte [2025-11-02T07:39:26.178Z] ✅ Fixed:
+src\routes\legal\documents\+page.svelte [2025-11-02T07:39:26.187Z] ✅ Fixed:
+src\routes\legal\precedent\matching\+page.svelte [2025-11-02T07:39:26.217Z] ✅ Fixed:
+src\routes\legal\research\+page.svelte [2025-11-02T07:39:26.231Z] ✅ Fixed: src\routes\legal-ai-suite\+page.svelte
+[2025-11-02T07:39:26.241Z] ✅ Fixed: src\routes\legal-report-compare\+page.svelte [2025-11-02T07:39:26.297Z] ✅ Fixed:
+src\routes\perf\+page.svelte [2025-11-02T07:39:26.321Z] ✅ Fixed: src\routes\prosecutor\+page.svelte
+[2025-11-02T07:39:26.350Z] ✅ Fixed: src\routes\reports-generator\+page.svelte [2025-11-02T07:39:26.373Z] ✅ Fixed:
+src\routes\saved-citations\+page.svelte [2025-11-02T07:39:26.414Z] ✅ Fixed: src\routes\state\machines\+page.svelte
+[2025-11-02T07:39:26.420Z] ✅ Fixed: src\routes\state\persistence\+page.svelte [2025-11-02T07:39:26.429Z] ✅ Fixed:
+src\routes\storage\admin\audits\+page.svelte [2025-11-02T07:39:26.445Z] ✅ Fixed:
+src\routes\system-dashboard\+page.svelte [2025-11-02T07:39:26.461Z] ✅ Fixed: src\routes\text-editor\+page.svelte
+[2025-11-02T07:39:26.490Z] ✅ Fixed: src\routes\yorha\+layout.svelte [2025-11-02T07:39:26.501Z] ✅ Fixed:
+src\routes\yorha\analysis\+page.svelte [2025-11-02T07:39:26.527Z] ✅ Fixed: src\routes\yorha\persons\+page.svelte
+[2025-11-02T07:39:26.537Z] ✨ Phase 1 Complete: 177/1150 files modified [2025-11-02T07:39:26.538Z] 📝 Log:
+C:\Users\james\Videos\deeds-web-app\sveltekit-frontend\agentic-error-resolution\logs\phase1-1762069162707.log

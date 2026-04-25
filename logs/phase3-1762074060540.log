@@ -1,0 +1,8 @@
+[2025-11-02T09:01:00.540Z] 🚀 Phase 3: AI-Assisted Type Error Repair [2025-11-02T09:01:00.555Z] 📁 Root:
+C:\Users\james\Videos\deeds-web-app\sveltekit-frontend [2025-11-02T09:01:00.555Z] 🤖 Ollama: http://localhost:11434
+[2025-11-02T09:01:00.556Z] 📦 Redis: redis://localhost:6379 [2025-11-02T09:01:00.557Z] 🔍 Qdrant: http://localhost:6333
+[2025-11-02T09:06:07.101Z] ⚠️ Ollama unavailable: fetch failed [2025-11-02T09:06:07.106Z] [2025-11-02T09:06:07.107Z] ⚠️
+WARNING: Ollama is not available! [2025-11-02T09:06:07.108Z] Phase 3 requires Ollama for AI-assisted fixes.
+[2025-11-02T09:06:07.108Z] Please start Ollama: [2025-11-02T09:06:07.109Z] ollama serve [2025-11-02T09:06:07.109Z] And
+ensure gemma3-legal:latest is pulled: [2025-11-02T09:06:07.109Z] ollama pull gemma3-legal:latest
+[2025-11-02T09:06:07.110Z]
